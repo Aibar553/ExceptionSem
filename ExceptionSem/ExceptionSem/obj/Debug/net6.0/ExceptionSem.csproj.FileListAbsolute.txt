@@ -1,0 +1,15 @@
+C:\Users\Aibar Arysbai\source\repos\ExceptionSem\ExceptionSem\bin\Debug\net6.0\ExceptionSem.exe
+C:\Users\Aibar Arysbai\source\repos\ExceptionSem\ExceptionSem\bin\Debug\net6.0\ExceptionSem.deps.json
+C:\Users\Aibar Arysbai\source\repos\ExceptionSem\ExceptionSem\bin\Debug\net6.0\ExceptionSem.runtimeconfig.json
+C:\Users\Aibar Arysbai\source\repos\ExceptionSem\ExceptionSem\bin\Debug\net6.0\ExceptionSem.dll
+C:\Users\Aibar Arysbai\source\repos\ExceptionSem\ExceptionSem\bin\Debug\net6.0\ExceptionSem.pdb
+C:\Users\Aibar Arysbai\source\repos\ExceptionSem\ExceptionSem\obj\Debug\net6.0\ExceptionSem.csproj.AssemblyReference.cache
+C:\Users\Aibar Arysbai\source\repos\ExceptionSem\ExceptionSem\obj\Debug\net6.0\ExceptionSem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aibar Arysbai\source\repos\ExceptionSem\ExceptionSem\obj\Debug\net6.0\ExceptionSem.AssemblyInfoInputs.cache
+C:\Users\Aibar Arysbai\source\repos\ExceptionSem\ExceptionSem\obj\Debug\net6.0\ExceptionSem.AssemblyInfo.cs
+C:\Users\Aibar Arysbai\source\repos\ExceptionSem\ExceptionSem\obj\Debug\net6.0\ExceptionSem.csproj.CoreCompileInputs.cache
+C:\Users\Aibar Arysbai\source\repos\ExceptionSem\ExceptionSem\obj\Debug\net6.0\ExceptionSem.dll
+C:\Users\Aibar Arysbai\source\repos\ExceptionSem\ExceptionSem\obj\Debug\net6.0\refint\ExceptionSem.dll
+C:\Users\Aibar Arysbai\source\repos\ExceptionSem\ExceptionSem\obj\Debug\net6.0\ExceptionSem.pdb
+C:\Users\Aibar Arysbai\source\repos\ExceptionSem\ExceptionSem\obj\Debug\net6.0\ExceptionSem.genruntimeconfig.cache
+C:\Users\Aibar Arysbai\source\repos\ExceptionSem\ExceptionSem\obj\Debug\net6.0\ref\ExceptionSem.dll
