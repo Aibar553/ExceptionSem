@@ -1,0 +1,15 @@
+C:\Users\Aibar Arysbai\source\repos\JsonFucking\JsonFucking\bin\Debug\net6.0\JsonFucking.exe
+C:\Users\Aibar Arysbai\source\repos\JsonFucking\JsonFucking\bin\Debug\net6.0\JsonFucking.deps.json
+C:\Users\Aibar Arysbai\source\repos\JsonFucking\JsonFucking\bin\Debug\net6.0\JsonFucking.runtimeconfig.json
+C:\Users\Aibar Arysbai\source\repos\JsonFucking\JsonFucking\bin\Debug\net6.0\JsonFucking.dll
+C:\Users\Aibar Arysbai\source\repos\JsonFucking\JsonFucking\bin\Debug\net6.0\JsonFucking.pdb
+C:\Users\Aibar Arysbai\source\repos\JsonFucking\JsonFucking\obj\Debug\net6.0\JsonFucking.csproj.AssemblyReference.cache
+C:\Users\Aibar Arysbai\source\repos\JsonFucking\JsonFucking\obj\Debug\net6.0\JsonFucking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aibar Arysbai\source\repos\JsonFucking\JsonFucking\obj\Debug\net6.0\JsonFucking.AssemblyInfoInputs.cache
+C:\Users\Aibar Arysbai\source\repos\JsonFucking\JsonFucking\obj\Debug\net6.0\JsonFucking.AssemblyInfo.cs
+C:\Users\Aibar Arysbai\source\repos\JsonFucking\JsonFucking\obj\Debug\net6.0\JsonFucking.csproj.CoreCompileInputs.cache
+C:\Users\Aibar Arysbai\source\repos\JsonFucking\JsonFucking\obj\Debug\net6.0\JsonFucking.dll
+C:\Users\Aibar Arysbai\source\repos\JsonFucking\JsonFucking\obj\Debug\net6.0\refint\JsonFucking.dll
+C:\Users\Aibar Arysbai\source\repos\JsonFucking\JsonFucking\obj\Debug\net6.0\JsonFucking.pdb
+C:\Users\Aibar Arysbai\source\repos\JsonFucking\JsonFucking\obj\Debug\net6.0\JsonFucking.genruntimeconfig.cache
+C:\Users\Aibar Arysbai\source\repos\JsonFucking\JsonFucking\obj\Debug\net6.0\ref\JsonFucking.dll
